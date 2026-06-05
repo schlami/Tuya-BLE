@@ -192,6 +192,7 @@ mapping: dict[str, TuyaBLECategorySensorMapping] = {
             **dict.fromkeys(
                 [
                     "ludzroix",
+                    "wg84u6ez",
                     "isk2p555",
                     "gumrixyt",
                     "uamrw6h3",
