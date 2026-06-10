@@ -200,7 +200,6 @@ mapping: dict[str, TuyaBLECategorySensorMapping] = {
                     "sidhzylo",
                     "bvclwu9b",
                     "k53ok3u9",
-                    "6pt5mb09",
                 ],  # Smart Lock
                 [
                     TuyaBLEAlarmLockStateMapping(dp_id=21),
@@ -220,7 +219,7 @@ mapping: dict[str, TuyaBLECategorySensorMapping] = {
                     ),
                 ],
             ),
-            "mqc2hevy": [  # Smart Lock - YSG_T8_8G_htr
+            "6pt5mb09": [  # Smart Lock - YSG_T83
                 # TODO: TuyaBLEAlarmLockStateMapping(dp_id=21) ?
                 TuyaBLESensorMapping(
                     dp_id=21,
